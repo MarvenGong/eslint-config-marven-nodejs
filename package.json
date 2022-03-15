@@ -1,0 +1,32 @@
+{
+  "name": "@marven/eslint-config-marven-nodejs",
+  "version": "0.1.0",
+  "description": "marvengong nodejs项目eslint配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvenGong/eslint-config-marven-nodejs.git"
+  },
+  "keywords": [
+    "marven",
+    "eslint",
+    "config"
+  ],
+  "author": "marvengong",
+  "devDependencies": {
+    "@babel/core": "^7.17.7",
+    "@babel/eslint-parser": "^7.17.0",
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-node": "^11.1.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvenGong/eslint-config-marven-nodejs/issues"
+  },
+  "homepage": "https://github.com/MarvenGong/eslint-config-marven-nodejs#readme"
+}
