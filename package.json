@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-marven-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "marvengong nodejs项目eslint配置",
   "main": "index.js",
